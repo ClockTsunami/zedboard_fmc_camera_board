@@ -1,0 +1,43 @@
++V
+-V
+0V
+7SEG||#DIP=10||@Value=7 Segment Display||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Battery||#MISC=2||@Value=9V||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Capacitor||#DSC=2||@Value=100nF||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#0402=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#0603=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#0805=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#1206=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#1210=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#SM0603=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Capacritor_Pol||#DSCV=2||@Value=100uF||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#CAPP1V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#CAPP4V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#CAPP5V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#CAPP6V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+CONN_D9||#DSC=11||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+CONN_D9_RA||#DSC=11||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+CONN_DIL_26||#DSC=26||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+CONN_SIL_2||#DSC=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+CONN_SIL_3||#DSC=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+CONN_SIL_4||#DSC=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+CONN_SIL_5||#DSC=5||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Diode||#DSC=2||@Value=2N0000||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#MISC=2||@Value=2N0000||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Diode_zener||#DSC=2||@Value=1N5359||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#MISC=2||@Value=1N5359||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+DS_A3_Template_r00
+DS_A4_Template_r00
+EARTH
+FUSE||#DSC=2||@Value=12V||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#MISC=4||@Value=12V||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+GND
+Inductor||#SM=2||@Value=1pH||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSC=2||@Value=1pH||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#1206=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#1210=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+LED||#DSC=2||@Value=LED 5MM RED||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#MISC=2||@Value=LED 5MM RED||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NFET||#SM=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSC=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NMOS||#DSC=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+NPNTRAN||#SM=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSC=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+PFET||#SM=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSC=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+PMOS||#DSC=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+PNPTRAN||#SM=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSC=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Pushbutton||#DISC=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+RA_2POT||#DSC=6||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+RA_POT||#DSC=3||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSCV=5||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+RA_PRE||#DSC=3||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSCV=3||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+RA_PREC||#DSC=3||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSCV=3||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+RA_PREM||#DSC=3||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSCV=3||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Relay type 47||#DSC=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Relay type 53||#DSC=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Resistor||#SM=2||@Value=1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSC=2||@Value=1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Resistor2||#SM=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||#DSC=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Vcc
+Vdd
+Vss
+XTAL||#DSC=2||@Value=32.768KHZ||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
