@@ -31,7 +31,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 
 [Document1]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=fmc_interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
@@ -47,23 +47,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document3]
-DocumentPath=Sheet2.SchDoc
+DocumentPath=i2c_video_clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
@@ -78,8 +62,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
-DocumentPath=Sheet3.SchDoc
+[Document3]
+DocumentPath=camera_interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
@@ -94,14 +78,30 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
-DocumentPath=Sheet4.SchDoc
+[Document4]
+DocumentPath=hdmi_interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document5]
+DocumentPath=FMC_P_CAM.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
